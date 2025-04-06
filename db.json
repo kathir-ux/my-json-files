@@ -1,0 +1,70 @@
+{
+  "id": [
+    {
+      "studentID": 61,
+      "id": "1"
+    }
+  ],
+  "studentData": [
+    {
+      "id": "1",
+      "name": "kathir",
+      "present": true
+    },
+    {
+      "id": "2",
+      "name": "siva",
+      "present": false
+    }
+  ],
+  "Data": [
+    {
+      "id": "53",
+      "name": "SIVA SANKARI",
+      "age": 19,
+      "place": "ARASUR"
+    },
+    {
+      "id": "54",
+      "name": "KATHIRESAN",
+      "age": 20,
+      "place": "PARIKKAL",
+    },
+    {
+      "id": "55",
+      "name": "RAMESH",
+      "age": 20,
+      "place": "KUMARI"
+    },
+    {
+      "id": "56",
+      "name": "KUMAR",
+      "age": 33,
+      "place": "PARIKKAL"
+    },
+    {
+      "id": "57",
+      "name": "MURTHI",
+      "age": 21,
+      "place": "KALLAKURICHI"
+    },
+    {
+      "id": "59",
+      "name": "NANDHINI",
+      "age": 20,
+      "place": "PARIKKAL"
+    },
+    {
+      "id": "60",
+      "name": "NANDHAN",
+      "age": 10,
+      "place": "SEVALAI"
+    },
+    {
+      "id": "61",
+      "name": "RAVI",
+      "age": 20,
+      "place": "SEVALAI"
+    }
+  ]
+}
