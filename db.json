@@ -1,22 +1,4 @@
 {
-  "id": [
-    {
-      "studentID": 61,
-      "id": "1"
-    }
-  ],
-  "studentData": [
-    {
-      "id": "1",
-      "name": "kathir",
-      "present": true
-    },
-    {
-      "id": "2",
-      "name": "siva",
-      "present": false
-    }
-  ],
   "Data": [
     {
       "id": "53",
