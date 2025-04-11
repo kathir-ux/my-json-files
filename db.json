@@ -1,52 +1,20 @@
-{
-  "Data": [
-    {
-      "id": "53",
-      "name": "SIVA SANKARI",
-      "age": 19,
-      "place": "ARASUR"
-    },
-    {
-      "id": "54",
-      "name": "KATHIRESAN",
-      "age": 20,
-      "place": "PARIKKAL"
-    },
-    {
-      "id": "55",
-      "name": "RAMESH",
-      "age": 20,
-      "place": "KUMARI"
-    },
-    {
-      "id": "56",
-      "name": "KUMAR",
-      "age": 33,
-      "place": "PARIKKAL"
-    },
-    {
-      "id": "57",
-      "name": "MURTHI",
-      "age": 21,
-      "place": "KALLAKURICHI"
-    },
-    {
-      "id": "59",
-      "name": "NANDHINI",
-      "age": 20,
-      "place": "PARIKKAL"
-    },
-    {
-      "id": "60",
-      "name": "NANDHAN",
-      "age": 10,
-      "place": "SEVALAI"
-    },
-    {
-      "id": "61",
-      "name": "RAVI",
-      "age": 20,
-      "place": "SEVALAI"
-    }
-  ]
-}
+[
+  {
+    "id":1,
+    "name": "Alice",
+    "age": 30,
+    "isStudent": false
+  },
+  {
+    "id":2,
+    "name": "Bob",
+    "age": 25,
+    "isStudent": true
+  },
+  {
+    "id":3,
+    "name": "Charlie",
+    "age": 28,
+    "isStudent": false
+  }
+]
